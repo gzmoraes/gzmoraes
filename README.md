@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mim
 
-Sou curioso por natureza, gosto de entender como as coisas funcionam — desde sistemas automatizados até código. Com formação técnica em Mecatrônica e iniciando minha jornada no mundo da Engenharia de Software, estou focado em aprender, evoluir e construir coisas incríveis.
+Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sistemas automatizados até código. Com formação técnica em Mecatrônica e iniciando minha jornada no mundo da Engenharia de Software, estou focado em aprender, evoluir e construir coisas incríveis.
 
 ---
 
