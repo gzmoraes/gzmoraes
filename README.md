@@ -15,7 +15,7 @@
 Atualmente estou focado em construir uma base sólida em programação e desenvolvimento de sistemas. Estou aberto a colaborações, projetos iniciais e oportunidades que me ajudem a crescer profissionalmente.
 
 ## 📫 Contato
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/devgustavomoraes/)  
+Você pode me encontrar no [LinkedIn](www.linkedin.com/in/devgustavomoraes)  
 Ou me mandar um e-mail: moraesguh28@gmail.com
 
 ---
