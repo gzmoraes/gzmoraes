@@ -16,11 +16,15 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ### 💻 Tecnologias & Ferramentas
 
-- 💡 Lógica de Programação
-- 🌐 HTML, CSS, JavaScript (em progresso)
-- 🐍 Python básico
-- ⚙️ Git & GitHub
-- 🔧 Conhecimentos em automação e sistemas embarcados
+<div style= "display: inline-block">
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height= "60" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
 
 ---
 
@@ -33,10 +37,36 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ---
 
+<div align="center">
+  <a href="https://beacons.ai/gzmoraes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzmoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmoraes&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
+
+
+---
+
 ### 📬 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/devgustavomoraes)
-- 📧 moraesguh28@gmail.com
+<div>
+  <a href="https://instagram.com/gz.moraes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://discord.gg/7PHZgxEu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="mailto:moraesguh28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/devgustavomoraes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
