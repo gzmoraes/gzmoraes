@@ -69,7 +69,26 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 
 ---
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/gzmoraes/gzmoraes/output/github-contribution-grid-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/gzmoraes/gzmoraes/output/github-contribution-grid-snake.svg" 
+    />
+    <img 
+      alt="GitHub contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/gzmoraes/gzmoraes/output/github-contribution-grid-snake.svg" 
+    />
+  </picture>
+  </div>
+<br><br>
 
-<p align="center">
+
+<h1  align="center">
    Obrigado por visitar meu perfil! 
-</p>
+</h1>
+
