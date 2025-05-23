@@ -16,14 +16,14 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ### 💻 Tecnologias & Ferramentas
 
-<div style= "display: inline-block">
+<div align= "center" style= "display: inline-block">
   <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height= "60" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" height= "50" width= "60" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" />
 </div>
 
 ---
