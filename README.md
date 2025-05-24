@@ -49,7 +49,7 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ### 📬 Vamos nos conectar?
 
-<div>
+<div align="center">
   <a href="https://instagram.com/gz.moraes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
