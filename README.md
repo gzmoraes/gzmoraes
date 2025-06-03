@@ -1,20 +1,20 @@
-<h1 align="center">👋 Olá! Eu sou o Gustavo Moraes</h1>
+<h1 align="center">Olá! Eu sou o Gustavo Moraes</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia de Software na <strong>UMC</strong> <br>
-  🔧 Técnico em Mecatrônica pelo <strong>Senai Celso Charuri</strong> <br>
-  🚀 Apaixonado por tecnologia, inovação e desenvolvimento de software
+   Estudante de Engenharia de Software na <strong>UMC</strong> <br>
+   Técnico em Mecatrônica pelo <strong>Senai Celso Charuri</strong> <br>
+   Apaixonado por tecnologia, inovação e desenvolvimento de software
 </p>
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 
 Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sistemas automatizados até código. Com formação técnica em Mecatrônica e iniciando minha jornada no mundo da Engenharia de Software, estou focado em aprender, evoluir e construir coisas incríveis.
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align= "center" style= "display: inline-block">
   <img align="center" height= "50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -28,12 +28,11 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ---
 
-### 🎯 Objetivos
+###  Objetivos
 
 - Aprimorar habilidades em programação e desenvolvimento web
 - Contribuir com projetos open source no futuro
 - Conseguir minha primeira oportunidade na área de tecnologia
-- Nunca parar de aprender 🚀
 
 ---
 
@@ -47,7 +46,7 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ---
 
-### 📬 Vamos nos conectar?
+###  Vamos nos conectar?
 
 <div align="center">
   <a href="https://instagram.com/gz.moraes" target="_blank">
